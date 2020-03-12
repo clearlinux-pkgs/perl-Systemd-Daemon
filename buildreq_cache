@@ -1,0 +1,11 @@
+0.07
+perl(Devel::CheckLib)
+perl(Devel::Symdump)
+perl(Exporter::Tiny)
+perl(File::Which)
+perl(IPC::Run3)
+perl(IPC::System::Simple)
+perl(Path::Tiny)
+perl(Readonly)
+perl(Test::DiagINC)
+perl(Try::Tiny)
