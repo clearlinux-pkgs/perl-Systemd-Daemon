@@ -4,7 +4,7 @@
 #
 Name     : perl-Systemd-Daemon
 Version  : 0.07
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/V/VD/VDB/Systemd-Daemon-0.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/V/VD/VDB/Systemd-Daemon-0.07.tar.gz
 Summary  : 'Write systemd-aware daemons in Perl'
@@ -96,8 +96,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/x86_64-linux-thread-multi/Systemd/Daemon.pm
-/usr/lib/perl5/vendor_perl/5.30.1/x86_64-linux-thread-multi/Systemd/Daemon/Stub.pm
-/usr/lib/perl5/vendor_perl/5.30.1/x86_64-linux-thread-multi/Systemd/Daemon/XS.pm
-/usr/lib/perl5/vendor_perl/5.30.1/x86_64-linux-thread-multi/Systemd/Daemon/XS/Inline.pm
-/usr/lib/perl5/vendor_perl/5.30.1/x86_64-linux-thread-multi/auto/Systemd/Daemon/XS/Inline/Inline.so
+/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/Systemd/Daemon.pm
+/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/Systemd/Daemon/Stub.pm
+/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/Systemd/Daemon/XS.pm
+/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/Systemd/Daemon/XS/Inline.pm
+/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/auto/Systemd/Daemon/XS/Inline/Inline.so
