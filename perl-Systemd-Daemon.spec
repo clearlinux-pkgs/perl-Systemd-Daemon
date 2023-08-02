@@ -4,7 +4,7 @@
 #
 Name     : perl-Systemd-Daemon
 Version  : 0.07
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/V/VD/VDB/Systemd-Daemon-0.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/V/VD/VDB/Systemd-Daemon-0.07.tar.gz
 Summary  : 'Write systemd-aware daemons in Perl'
